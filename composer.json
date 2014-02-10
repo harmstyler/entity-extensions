@@ -1,0 +1,14 @@
+{
+    "name": "harmstyler/timestamped",
+    "description": "Adds helpful doctrine entity extensions",
+    "require": {
+        "doctrine/orm": ">=2.2.3"
+    },
+    "authors": [
+        {
+            "name": "Tyler Harms",
+            "email": "tyler.harms@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
